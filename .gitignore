@@ -1,0 +1,17 @@
+# Virtual environments
+soc-env/
+env/
+venv/
+
+# Data
+data/
+*.csv
+
+# Binary / ML artifacts
+*.dll
+*.pkl
+*.joblib
+
+# Python
+__pycache__/
+*.pyc
